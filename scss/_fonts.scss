@@ -1,0 +1,84 @@
+@font-face {
+    font-family: "Geometria";
+    src: url("../fonts/Geometria.eot");
+    src: local("Geometria"), 
+    url("../fonts/Geometria.woff2") format("woff2"),
+    url("../fonts/Geometria.woff") format("woff"),
+    url('../fonts/Geometria.ttf')  format('truetype');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Geometria";
+    src: url("../fonts/Geometria-Medium.eot");
+    src: local("Geometria"), 
+    url("../fonts/Geometria-Medium.woff2") format("woff2"),
+    url("../fonts/Geometria-Medium.woff") format("woff"),
+    url('../fonts/Geometria-Medium.ttf')  format('truetype');
+    font-weight: 500;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Geometria";
+    src: url("../fonts/Geometria-Bold.eot");
+    src: local("Geometria"), 
+    url("../fonts/Geometria-Bold.woff2") format("woff2"),
+    url("../fonts/Geometria-Bold.woff") format("woff"),
+    url('../fonts/Geometria-Bold.ttf')  format('truetype');
+    font-weight: 700;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Geometria";
+    src: url("../fonts/Geometria-ExtraBold.eot");
+    src: local("Geometria"), 
+    url("../fonts/Geometria-ExtraBold.woff2") format("woff2"),
+    url("../fonts/Geometria-ExtraBold.woff") format("woff"),
+    url('../fonts/Geometria-ExtraBold.ttf')  format('truetype');
+    font-weight: 800;
+    font-display: swap;
+}
+
+%geo{
+    font-family: "Geometria";
+}
+
+@font-face {
+    font-family: "Exo2";
+    src: url("../fonts/Exo2-Regular.eot");
+    src: local("Exo2"), 
+    url("../fonts/Exo2-Regular.woff2") format("woff2"),
+    url("../fonts/Exo2-Regular.woff") format("woff"),
+    url('../fonts/Exo2-Regular.ttf')  format('truetype');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Exo2";
+    src: url("../fonts/Exo2-Bold.eot");
+    src: local("Exo2"), 
+    url("../fonts/Exo2-Bold.woff2") format("woff2"),
+    url("../fonts/Exo2-Bold.woff") format("woff"),
+    url('../fonts/Exo2-Bold.ttf')  format('truetype');
+    font-weight: 700;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Exo2";
+    src: url("../fonts/Exo2-Black.eot");
+    src: local("Exo2"), 
+    url("../fonts/Exo2-Black.woff2") format("woff2"),
+    url("../fonts/Exo2-Black.woff") format("woff"),
+    url('../fonts/Exo2-Black.ttf')  format('truetype');
+    font-weight: 900;
+    font-display: swap;
+}
+
+%exo{
+    font-family: "Exo2";
+}
